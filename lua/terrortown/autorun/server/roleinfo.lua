@@ -463,7 +463,6 @@ Unfortunately the lists are disorganised so the player you get is random each ti
 When a Loot Goblin exists in the round everyone will hear a goblin laugh and will be alerted to "Kill the Goblin for it's Loot!". If you manage to kill the goblin the game annouces your victory and the Loot Goblin Drops random traitor items for everyone to enjoy. (Except the now dead goblin).]]
     },
     ["jimbo"] = {
-        description = [[Jimbo is a Jester role similar to Swapper: they cannot deal damage, appear as a Jester to Traitors, and have a goal of being killed by others. Once killed, they and their killer (unless configured otherwise) will be revived as Jimbo. Even more chaos normally ensues.
-If Jimbo(s) are killed enough times and cause the last innocent/traitor to die, they win.]]
+        description = [[Jimbo is a Jester role similar to Swapper, but instead of swapping Jimbo will be revived as Jimbo. Jimbo's goal is to be killed enough times to win!]]
     },
 }
